@@ -2,5 +2,7 @@
     "name": "Hospital Management System",
     "author": "Ly Chan",
     "website": "https://mountainchan575980059.wordpress.com/",
-    "summary": "Ly Chan custom addons"
+    "summary": "Ly Chan custom addons",
+    "license": "LGPL-3",
+    "data": ["views/menu.xml", "views/patient.xml"]
 }
