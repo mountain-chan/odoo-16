@@ -10,6 +10,6 @@ Ly Chan Custom description
     """,
     'category': 'Accounting/Accounting',
     'website': 'https://mountainchan575980059.wordpress.com/',
-    'depends' : ['base_setup', 'product', 'analytic', 'portal', 'digest'],
+    'depends': ['base_setup', 'product', 'analytic', 'portal', 'digest'],
     'license': 'LGPL-3',
 }
