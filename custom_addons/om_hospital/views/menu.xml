@@ -2,7 +2,7 @@
 <odoo>
     <menuitem id="menu_hospital_root" name="Hospital" sequence="10"/>
     <menuitem id="menu_hospital_operations"
-              name="Patients"
+              name="Operations"
               parent="menu_hospital_root"
               sequence="10"/>
 </odoo>
