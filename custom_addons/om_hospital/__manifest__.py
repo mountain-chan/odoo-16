@@ -4,5 +4,5 @@
     "website": "https://mountainchan575980059.wordpress.com/",
     "summary": "Ly Chan custom addons",
     "license": "LGPL-3",
-    "data": ["views/menu.xml", "views/patient.xml"]
+    "data": ["security/ir.model.access.csv", "views/menu.xml", "views/patient.xml"]
 }
